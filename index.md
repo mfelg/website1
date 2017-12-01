@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Find the best medical alert system in the United States. The devices will help you stay safe and sound, and will let family members know of your condition. It's hard to find differentiation among the various personal emergency response systems. Many actually use the same hardware, and the same outsourced call center! The difference will be in the service and in the terms of your agreement.
 
-You can use the [editor on GitHub](https://github.com/mfelg/website1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[https://www.health.harvard.edu/blog/medical-alert-systems-in-vogue-and-for-some-invaluable-201603239376](url)
+[https://seniorhelpdesk.com/categories/medical-alert](url)
+[https://www.seniorsafetyreviews.com/reviews/best-medical-alert-systems/](url)
+[https://www.health.harvard.edu/healthy-aging/the-new-generation-of-wearable-medical-alert-systems](url)
+[https://www.agingcare.com/questions/best-medical-alert-system-for-elder-142215.htm](url)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mfelg/website1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The above articles are a good resource to help you get started in finding the a medical alert system good for you.
